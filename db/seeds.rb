@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 10.times do
-  Todo.create(task: "Creted from seeds")
+  Todo.create(task: "Created from seeds")
 end
