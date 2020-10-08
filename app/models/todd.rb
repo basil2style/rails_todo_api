@@ -1,2 +1,0 @@
-class Todd < ApplicationRecord
-end
